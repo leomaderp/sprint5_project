@@ -17,3 +17,8 @@ O aplicativo permite:
 - Pandas
 - Streamlit
 - Plotly Express
+
+## Links
+
+- [Repositório no GitHub](https://github.com/leomaderp/sprint5_project)
+- [Aplicativo no Render](https://sprint5-project-z5ug.onrender.com/)
